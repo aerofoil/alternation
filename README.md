@@ -6,6 +6,6 @@ Alternation is a fork of @olemartinorg’s i3-alternating-layouts. It divides th
 installation
 ---
 
-    git clone https://github.com/aerofoil/alternation.git && cd alternation && ./install.sh
+    git clone https://github.com/aerofoil/alternation.git && cd alternation && sudo ./install.sh
 
 ![screenshot](https://raw.githubusercontent.com/aerofoil/graphics/master/screenshots/alternation.png)
